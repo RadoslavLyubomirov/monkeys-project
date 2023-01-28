@@ -1,0 +1,32 @@
+.section{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    padding:20px;
+
+}
+.section p, section div{
+    text-align: left;
+}
+.section div{
+    color: coral;
+}
+div .blur-text{
+    margin-left: 20px;
+    color: gray;
+    text-shadow: 1px 1px;
+}
+#main-container{
+    text-align: center;
+    background: white;
+    padding: 20px 40px;
+    width: 90%;
+    margin: auto;
+    border-radius: 30px;
+}
+body{
+    background-color: antiquewhite;
+}
+img{
+    width:50px;
+}
